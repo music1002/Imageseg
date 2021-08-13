@@ -127,14 +127,6 @@ plt.figure(figsize=(6, 6))
 
 
 
-'''cv2.waitKey(0)
-cv2.destroyAllWindows()
-cv2.waitKey(1)
-     
-
-    '''
-
-
 
 
         
